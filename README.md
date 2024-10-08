@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1d0b4n&layout=compact&theme=tokyonight)](https://github.com/m1d0b4n/github-readme-stats)
 
+![tryhackme stats](https://raw.githubusercontent.com/m1d0b4n/m1d0b4n/master/assets/thm_propic.png)
+
 </div>
 
 <!--
