@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+[![Try Hack Me](./assets/m1d0b4n.png)](https://tryhackme.com/r/p/m1d0b4n)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=m1d0b4n&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1d0b4n&layout=compact&theme=tokyonight)](https://github.com/m1d0b4n/github-readme-stats)
