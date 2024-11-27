@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-<img alt="Coding" width="1483" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
+<img alt="Coding" width="1483" height="6" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
 
 <br><br>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-<img alt="Coding" width="1483" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
+<img alt="Coding" width="1483" height="6" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
 <!--
 **m1d0b4n/m1d0b4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
