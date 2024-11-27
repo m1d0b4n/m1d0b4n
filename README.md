@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there 👋
+# Hi there 👋
 
 <img alt="Coding" width="1483" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
 
