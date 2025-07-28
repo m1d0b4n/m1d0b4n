@@ -51,7 +51,7 @@
 
 [![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/m1d0b4n.png?update=2)](https://tryhackme.com/r/p/m1d0b4n)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=m1d0b4n&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=m1d0b4n&theme=chartreuse-dark&border_radius=15&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1d0b4n&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
