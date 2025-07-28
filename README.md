@@ -57,8 +57,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1d0b4n&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
 <br>
 
 <img alt="Coding" width="1483" height="6" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
