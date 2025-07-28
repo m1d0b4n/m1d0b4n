@@ -9,7 +9,7 @@
 ## 📚 Index of my public repositories
 
 <details>
-<summary><b>🔐 Sécurité / Pentest</b></summary>
+<summary><b>🔐 Security / Pentest</b></summary>
 
 [documentations-of-pentest-devices](https://github.com/m1d0b4n/documentations-of-pentest-devices)  
 [F0_Bad_USB](https://github.com/m1d0b4n/F0_Bad_USB)  
@@ -20,14 +20,14 @@
 </details>
 
 <details>
-<summary><b>⚙️ Automatisation / Outils</b></summary>
+<summary><b>⚙️ Automation / Tools</b></summary>
 
 [mouse_mover](https://github.com/m1d0b4n/mouse_mover)  
 [Edusign-Notificator](https://github.com/m1d0b4n/Edusign-Notificator)  
 </details>
 
 <details>
-<summary><b>🐍 Projets Python / Cours</b></summary>
+<summary><b>🐍 Python Projects / Courses</b></summary>
 
 [j4g4n](https://github.com/m1d0b4n/j4g4n)  
 [Projet_Python](https://github.com/m1d0b4n/Projet_Python)  
@@ -35,19 +35,21 @@
 </details>
 
 <details>
-<summary><b>🎮 Jeux / Fun</b></summary>
+<summary><b>🎮 Games / Fun</b></summary>
 
 [SN4KE](https://github.com/m1d0b4n/SN4KE)  
 [Pixel-Art](https://github.com/m1d0b4n/Pixel-Art)  
 </details>
 
 <details>
-<summary><b>👤 Profil / Divers</b></summary>
+<summary><b>👤 Profile / Misc</b></summary>
 
-[m1d0b4n](https://github.com/m1d0b4n/m1d0b4n)  
+[m1d0b4n](https://github.com/m1d0b4n/m1d0b4n)
 </details>
 
 <br><br>
+
+> [!NOTE] Stats
 
 [![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/m1d0b4n.png?update=2)](https://tryhackme.com/r/p/m1d0b4n)
 
