@@ -6,7 +6,7 @@
 
 <br>
 
-## 📚 Index of my public repositories
+## Index of my public repositories
 
 <details>
 <summary><b>🔐 Security / Pentest</b></summary>
@@ -47,8 +47,7 @@
 [m1d0b4n](https://github.com/m1d0b4n/m1d0b4n)
 </details>
 
-<br><br>
-
+---  
 [![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/m1d0b4n.png?update=2)](https://tryhackme.com/r/p/m1d0b4n)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=m1d0b4n&theme=chartreuse-dark&border_radius=15&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
