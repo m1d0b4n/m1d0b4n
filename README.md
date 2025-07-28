@@ -49,7 +49,7 @@
 
 <br><br>
 
-> [!NOTE] Stats
+> [!NOTE] Stats  
 
 [![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/m1d0b4n.png?update=2)](https://tryhackme.com/r/p/m1d0b4n)
 
