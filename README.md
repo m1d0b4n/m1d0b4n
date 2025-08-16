@@ -29,7 +29,6 @@
 <details>
 <summary><b>🐍 Python Projects / Courses</b></summary>
 
-[j4g4n](https://github.com/m1d0b4n/j4g4n)  
 [Projet_Python](https://github.com/m1d0b4n/Projet_Python)  
 [Cours-de-Python](https://github.com/m1d0b4n/Cours-de-Python)  
 </details>
