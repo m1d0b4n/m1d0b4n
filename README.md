@@ -49,12 +49,12 @@
 ---  
 [![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/m1d0b4n.png?update=2)](https://tryhackme.com/r/p/m1d0b4n)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=m1d0b4n&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=m1d0b4n&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1d0b4n&theme=github_dark)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m1d0b4n&theme=github_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m1d0b4n&theme=github_dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m1d0b4n&theme=github_dark)
 
 <br>
 
