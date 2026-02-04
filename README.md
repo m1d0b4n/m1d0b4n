@@ -47,7 +47,7 @@
 [m1d0b4n](https://github.com/m1d0b4n/m1d0b4n)
 </details>
 
----  
+  
 [![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/m1d0b4n.png?update=2)](https://tryhackme.com/r/p/m1d0b4n)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=m1d0b4n)](https://git.io/streak-stats)
