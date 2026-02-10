@@ -50,9 +50,12 @@
   
 [![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/m1d0b4n.png?update=2)](https://tryhackme.com/r/p/m1d0b4n)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=m1d0b4n)](https://git.io/streak-stats)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=m1d0b4n&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1d0b4n&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1d0b4n&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m1d0b4n&theme=github_dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m1d0b4n&theme=github_dark)
 
 <br>
 
